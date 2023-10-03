@@ -1,0 +1,6 @@
+{
+        "token": "ur token",
+        "ownerID":  "ownerid",
+        "webhook": "webhookurl",
+        "shard": 2
+}
